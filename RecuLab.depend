@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596026584 source:c:\users\nahue\onedrive\escritorio\proyecto nuevo\reculab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+
+1596026723 c:\users\nahue\onedrive\escritorio\proyecto nuevo\reculab\alquiler.h
+
